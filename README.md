@@ -1,8 +1,8 @@
  ## Kim Yi Hyun 💜
  ---  
   
-  
-📢 my blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://ssun-coding.tistory.com/)
+
+📢 my blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://ssun-coding.tistory.com/)  
 📧 my email : dlgus9943@gamil.com
 
 ##### 💽 Data Analysis
