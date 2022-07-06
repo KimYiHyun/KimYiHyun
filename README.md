@@ -1,6 +1,7 @@
  ## Kim Yi Hyun 💜  
 <br/>
-📢 my blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimYiHyun.github.io/)](https://ssun-coding.tistory.com/)<br/>
+<div>
+📢 my blog :  <img src="https://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&logoColor=white"></br/>
 📧 my email : dlgus9943@gamil.com
 
 #### 💽 Data Analysis
@@ -8,7 +9,14 @@
 - My main skills are SQL and Python.
 
 #### 🌈 Skills 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&stype=for-the-badge&logo=Python&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&stype=for-the-badge&logo=MySQL&logoColor=white) ![HTML5](https://img.shields.io/badge/HTM5L-E34F26.svg?&stype=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&stype=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&stype=for-the-badge&logo=JavaScript&logoColor=white)  
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
 #### 🔎 Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&stype=for-the-badge&logo=Jupyter&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032.svg?&stype=for-the-badge&logo=Git&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&stype=for-the-badge&logo=Notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&stype=for-the-badge&logo=Slack&logoColor=white) 
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
